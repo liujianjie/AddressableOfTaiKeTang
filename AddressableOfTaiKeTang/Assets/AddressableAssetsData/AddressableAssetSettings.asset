@@ -88,6 +88,20 @@ MonoBehaviour:
         m_Value: ServerData/[BuildTarget]
       - m_Id: dbe3fdf18e1c0724391ce575748b635e
         m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+    - m_InheritedParent: 
+      m_Id: b984f4def2963be439bbd015fdb73f57
+      m_ProfileName: Lesson12
+      m_Values:
+      - m_Id: 5604820d19336cd42b559408eeaf3374
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: cfce86d688e9bd64cae9d7c444a9d58c
+        m_Value: C:\\Users\\WIN10\\Desktop\\buildAssetBundle/[BuildTarget]
+      - m_Id: e043db79a9fd7394b8436fcebd37b34a
+        m_Value: C:\\Users\\WIN10\\Desktop\\buildAssetBundle/[BuildTarget]
+      - m_Id: 5e9524655791836438073968c20a04b8
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: dbe3fdf18e1c0724391ce575748b635e
+        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
     m_ProfileEntryNames:
     - m_Id: 5604820d19336cd42b559408eeaf3374
       m_Name: BuildTarget

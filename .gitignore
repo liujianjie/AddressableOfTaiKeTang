@@ -40,3 +40,6 @@ lanhuCookie.dat.meta
 AddressableOfTaiKeTang/Assets/Prefab
 
 UnityTeach4_Addressables.rar
+
+AddressableOfTaiKeTang/Out
+*.bundle
