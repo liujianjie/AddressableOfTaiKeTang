@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Textures
+  m_EditorClassIdentifier: 
+  m_GroupName: Textures
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 20eb3d60b6b277d4896aae230ae2ed6e
+  m_SerializeEntries:
+  - m_GUID: 0f10386825785ee4ea6825b71052db59
+    m_Address: ui_TY_biaotilan_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea53af6027257ce408cd5aa0c7ab0284
+    m_Address: ui_TY_daojudiban_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d234245cf98a4c47acfeef182806d8a
+    m_Address: ui_TY_di_shensebj_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7e091105cd6242d40b6d194c51d950bc, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: acafbe53d467cbb4aa470fad1ba22dab, type: 2}
+    - {fileID: 11400000, guid: 1f8d1f59e1a03c740ac62bfd2167939c, type: 2}
