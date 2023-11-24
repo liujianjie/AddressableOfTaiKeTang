@@ -10,27 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: GameObject
+  m_Name: Content Update
   m_EditorClassIdentifier: 
-  m_GroupName: GameObject
+  m_GroupName: Content Update
   m_Data:
     m_SerializedData: []
-  m_GUID: fcf842519f0f9b74c85fc2d2d59580ba
+  m_GUID: 1724b91163ce81b44a694e92bc6307a5
   m_SerializeEntries:
-  - m_GUID: cfa55236ee9283645b2aa87c83f9e3b4
+  - m_GUID: a74478ed45c14684792a69751cdef169
     m_Address: Cube
     m_ReadOnly: 0
     m_SerializedLabels:
     - SD
     - HD
-  - m_GUID: cf5b5251e8d218b4bbf4ae17d4518ffc
-    m_Address: Cube
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - HD
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7e091105cd6242d40b6d194c51d950bc, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: c79f27cfeb33876428d756834f2058aa, type: 2}
-    - {fileID: 11400000, guid: 3a342822f5c131d4da939820bef3ad49, type: 2}
+    - {fileID: 11400000, guid: 2136c8c6ec8f7bb4482cf6dc9bc0fd35, type: 2}
+    - {fileID: 11400000, guid: 772a8b2fa9a9a54418b4d8f220dc0125, type: 2}
