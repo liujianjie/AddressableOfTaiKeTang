@@ -18,7 +18,7 @@ MonoBehaviour:
   m_GUID: fcf842519f0f9b74c85fc2d2d59580ba
   m_SerializeEntries:
   - m_GUID: cfa55236ee9283645b2aa87c83f9e3b4
-    m_Address: Cube
+    m_Address: Sphere
     m_ReadOnly: 0
     m_SerializedLabels:
     - SD
