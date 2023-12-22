@@ -10,17 +10,17 @@ public class Lesson16 : MonoBehaviour
     void Start()
     {
         // 知识点一：获取加载进度
-        //StartCoroutine(LoadAsset());
+        StartCoroutine(LoadAsset());
 
         #region 知识点二 无类型句柄转换
         AsyncOperationHandle<GameObject> handle = Addressables.LoadAssetAsync<GameObject>("Cube");
-        //AsyncOperationHandle temp = handle;
-        ////把无类型句柄 转换为 有类型的泛型对象
-        //handle = temp.Convert<GameObject>();
-        //handle.Completed += (obj)=>
-        //{
-        //    Instantiate(handle.Result);
-        //};
+        AsyncOperationHandle temp = handle;
+        //把无类型句柄 转换为 有类型的泛型对象
+        handle = temp.Convert<GameObject>();
+        handle.Completed += (obj) =>
+        {
+            Instantiate(handle.Result);
+        };
         #endregion
 
 
