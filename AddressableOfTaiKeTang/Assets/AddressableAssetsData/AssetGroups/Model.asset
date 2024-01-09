@@ -10,24 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Scenes
+  m_Name: Model
   m_EditorClassIdentifier: 
-  m_GroupName: Scenes
+  m_GroupName: Model
   m_Data:
     m_SerializedData: []
-  m_GUID: 02659e5b0cbe3494eb94b1d245528962
-  m_SerializeEntries:
-  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
-    m_Address: SampleScene
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 7c3b7e090b5451943bf88f0968678dec
-    m_Address: Lesson20
-    m_ReadOnly: 0
-    m_SerializedLabels: []
+  m_GUID: 0f9c05cc85072e54badfe70befaf4485
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 7e091105cd6242d40b6d194c51d950bc, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: e1bd32c4ba30180429cd9117c30a71be, type: 2}
-    - {fileID: 11400000, guid: 6fbfe9659f088db4a893ebae6511ff15, type: 2}
+    - {fileID: 11400000, guid: fc711898fcad10a4ea313407e8044ea6, type: 2}
+    - {fileID: 11400000, guid: 7f53effae9f849649862bcc5dc5e9509, type: 2}
